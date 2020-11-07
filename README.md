@@ -1,2 +1,2 @@
-# sample-dog
-working repo clone of current dog 06-NOV-2020
+# PetDesk Dog Blueprint
+![Plate cover](https://raw.githubusercontent.com/PetDesk/dog-template/master/shield.png)
